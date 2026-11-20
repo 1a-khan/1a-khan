@@ -1,7 +1,7 @@
 ### Hi, I'm Ammad 👋
 
 **IT & Automation Engineer in Germany** — I automate business processes and run the infrastructure they need.
-7+ years in IT: from 1st/2nd-level support and VMware/VDI administration to designing production automation with UiPath, Power Platform, n8n and BPMN. Certified UiPath Automation Developer; Cloud Architect / DevOps training (velpTEC, 650 UE).
+7+ years in IT: from 1st/2nd-level support and VMware/VDI administration to designing production automation with UiPath, Power Platform, n8n and BPMN. UiPath Automation Developer Associate; Cloud Architect / DevOps training (velpTEC, 650 UE).
 
 🇩🇪 *Ich automatisiere Geschäftsprozesse und betreibe die Infrastruktur dafür — offen für Rollen in Automation, Low-Code, KI und IT-Administration (hybrid oder remote).*
 
@@ -11,7 +11,7 @@
 
 | Project | What it solves | Stack |
 |---|---|---|
-| ⭐ **[Wortfluss](https://github.com/1a-khan/wortfluss)** | Hold a key, speak — the text is typed into any app. Transcribes lectures and meetings into Markdown notes. Windows installer and Linux binary, released and used daily. | Rust · Whisper (Groq / OpenAI / Mistral / self-hosted) · Wayland & X11 |
+| ⭐ **[Wortfluss](https://github.com/1a-khan/wortfluss)** | Hold a key, speak — the text is typed into any app. Transcribes lectures and meetings into Markdown notes. Windows installer and Linux binary (v0.6.0). | Rust · Whisper (Groq / OpenAI / Mistral / self-hosted) · Wayland & X11 |
 | ⭐ **[Flowloom](https://github.com/1a-khan/flowloom-showcase)** | Process owners draw standard BPMN 2.0 and run it — forms, approvals, timers, decision tables, external workers, secrets per environment, dev → staging → prod. | Elixir · Phoenix LiveView · bpmn-js · OpenBao · Keycloak · MCP |
 | **[ai-script-data-extraction](https://github.com/1a-khan/ai-script-data-extraction)** | AI learns how to read a document type once; deterministic Python then extracts every PDF without further AI cost. | Python · LLM · pytest · CI |
 | **[homelab](https://github.com/1a-khan/homelab)** | A k3s platform run like production: GitOps, infrastructure as code, secrets management, monitoring, tested backups. | k3s · Argo CD · OpenTofu · Ansible · OpenBao · Grafana · Wazuh |
